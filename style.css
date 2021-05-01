@@ -1,0 +1,21 @@
+.heading{
+    width:100%;
+    font-size: 27px;
+}
+.note{
+    font-size: 17px;
+}
+.copy_right{
+    position:fixed;
+    font-size:17px;
+    bottom:0;
+    background-color: black;
+    color:white;
+    width:100%;
+}
+.copy_right p{
+    text-align:center;
+}
+canvas{
+    background-color: aquamarine;
+}
